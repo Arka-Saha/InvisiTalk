@@ -7,8 +7,6 @@ An Android application that allows users to send and receive anonymous messages.
 - **Anonymous Messaging:** Send messages to other users anonymously.
 - **User Authentication:** Users can create accounts and log in securely.
 - **Real-time Messaging:** Messages are delivered instantly using Firebase Realtime Database.
-- **Profile Customization:** Users can customize their profiles with avatars and usernames.
-- **Message History:** View the history of sent and received messages.
 - **Privacy:** Users' identities are protected with anonymous messaging.
 
 ## Screenshots
