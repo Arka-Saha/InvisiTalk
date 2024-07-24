@@ -13,8 +13,9 @@ An Android application that allows users to send and receive anonymous messages.
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/Screenshot_20240724_230850_AnonymMsg.jpg)
-![Screenshot 2](/screenshots/Screenshot_20240724_230803_AnonymMsg.jpg)
+<img src="/screenshots/Screenshot_20240724_230803_AnonymMsg.jpg" alt="Screenshot 2" width="300">
+<img src="/screenshots/Screenshot_20240724_223850_AnonymMsg.jpg" alt="Screenshot 2" width="300">
+
 
 ## Installation
 
