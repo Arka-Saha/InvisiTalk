@@ -22,7 +22,7 @@ To use the app, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/anonymous-messaging-app.git
+   git clone https://github.com/Arka-Saha/AnonymMsger.git
 
 ## Technologies Used 
 
